@@ -1,0 +1,23 @@
+# ===== IDE =====
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# ===== Build output =====
+bin/
+out/
+target/
+*.class
+
+# ===== OS / ユーザー固有 =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
+
+# ===== その他 =====
+# lib/ を無視したい場合は外す
+# lib/
